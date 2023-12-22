@@ -5,9 +5,13 @@
 
 Here are some ideas to get you started:
 -->
+
+# Hi there I'm Laura 👋
+
 - 🔭 I’m currently looking for a job !
 - 🌱 I’m currently learning HTML, CSS, Javascript, Rails on Ruby
 - 👯 I’m looking to collaborate on any projects including front-end !
-- 💬 Ask me about ...
 - 📫 How to reach me: lauranaderimehr@gmail.com
-- ⚡ Fun fact: ...
+
+Add me on LinkedIn:
+[<i class="fa-brands fa-linkedin"></i>](https://www.linkedin.com/in/laura-naderimehr/)
