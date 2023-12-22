@@ -17,5 +17,6 @@ Add me on LinkedIn:
 
 <div id="badges">
   <a href="https://www.linkedin.com/in/laura-naderimehr/">
-    <i class="fa-brands fa-linkedin"></i>  </a>
+    <i class="fa-brands fa-linkedin"></i>  
+  </a>
 </div>
