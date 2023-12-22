@@ -16,6 +16,6 @@ Here are some ideas to get you started:
 Add me on LinkedIn:
 <div id="badges">
   <a href="https://www.linkedin.com/in/laura-naderimehr/">
-    <i class="fa-brands fa-linkedin"></i>  
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
 </div>
