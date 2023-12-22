@@ -14,4 +14,4 @@ Here are some ideas to get you started:
 - 📫 How to reach me: lauranaderimehr@gmail.com
 
 Add me on LinkedIn:
-<div><i class="fa-brands fa-linkedin"></i></div>
+<html><div><i class="fa-brands fa-linkedin"></i></div></html>
