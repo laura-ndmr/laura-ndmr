@@ -22,4 +22,5 @@ Add me on LinkedIn:
 </div>
 
 Languages and tools:
+
 <div><i class="fa-brands fa-linkedin"></i></div>
